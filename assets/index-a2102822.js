@@ -1,0 +1,1 @@
+import{d as a,c,o as s,r as t}from"./index-df3efb78.js";const l=a({__name:"index",setup(r){function o(e){console.log(e)}return(e,_)=>{const n=t("choose-area");return s(),c(n,{onChange:o})}}});export{l as default};

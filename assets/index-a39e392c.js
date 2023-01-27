@@ -1,0 +1,1 @@
+import{d as a,b as s,e as l,o as i,r}from"./index-df3efb78.js";const p=a({__name:"index",setup(_){function o(e){console.log(e)}function n(e){console.log(e)}function c(e){console.log(e)}return(e,g)=>{const t=r("chooseCity");return i(),s("div",null,[l(t,{onChangeByCity:o,onChangeByProvince:n,onChangeSelect:c})])}}});export{p as default};

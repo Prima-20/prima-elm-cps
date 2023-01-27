@@ -1,0 +1,1 @@
+import{d as o,c as t,w as n,r as c,o as a,a as s}from"./index-df3efb78.js";const m=o({__name:"index",setup(r){return(_,p)=>{const e=c("choose-icon");return a(),t(e,{title:"选择图标"},{default:n(()=>[s("选择图标")]),_:1})}}});export{m as default};
